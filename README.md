@@ -2,7 +2,7 @@
 
 <p align="center">
   
-> *"Silence on stage, chaos in code."*
+> *"Friday the 13th is interesting..."*
 
 </p>
 

@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=120&section=header)
 
 <p align="center">
-<i>"Silence on stage, chaos in code."</i>
+<i>"Friday the 13th is interesting..."</i>
 </p>
 
 <br>

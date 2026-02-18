@@ -20,12 +20,12 @@
 <pre>
 
 <span style="color:#aaaaaa;">"</span>
-<span style="color:#ffffff;">Silence on stage, chaos in code.</span>
+<span style="color:#ffffff;">Friday the 13th is interesting...</span>
 <span style="color:#aaaaaa;">"</span>
 
 <span style="color:#555555;">------------------------------------------</span>
 
-<span style="color:#ff0000;">User:</span> [coloque aqui depois]
+<span style="color:#ff0000;">User:</span> o14bis
 <span style="color:#ff0000;">System:</span> Windows 10 <span style="color:#8000ff;">(GG Os)</span>
 <span style="color:#ff0000;">Languages:</span> none <span style="color:#8000ff;">(Sorry guys)</span>
 <span style="color:#ff0000;">Learning:</span> JavaScript <span style="color:#0099ff;">&</span> Lua

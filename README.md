@@ -1,28 +1,22 @@
-<!-- 🌊 TOPO -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=120&section=header)
 
-<div align="center">
+<p align="center">
+  
+> *"Silence on stage, chaos in code."*
 
-<svg width="100%" height="120" viewBox="0 0 1440 320" xmlns="http://www.w3.org/2000/svg">
-  <path fill="#8B0000">
-    <animate attributeName="d"
-      dur="6s"
-      repeatCount="indefinite"
-      values="
-      M0,160L80,170C160,180,320,200,480,190C640,180,800,140,960,130C1120,120,1280,140,1360,150L1440,160L1440,0L0,0Z;
-      M0,180L80,160C160,140,320,120,480,130C640,140,800,180,960,200C1120,220,1280,200,1360,190L1440,180L1440,0L0,0Z;
-      M0,160L80,170C160,180,320,200,480,190C640,180,800,140,960,130C1120,120,1280,140,1360,150L1440,160L1440,0L0,0Z
-      " />
-  </path>
-</svg>
+</p>
 
-</div>
+---
 
-<pre>
+![User](https://img.shields.io/badge/User-o14bis-8B0000?style=for-the-badge&logoColor=white)
+![System](https://img.shields.io/badge/System-Windows_10_(GG_Os)-8B0000?style=for-the-badge&logoColor=white)
+![Languages](https://img.shields.io/badge/Languages-none_(Sorry_guys)-8B0000?style=for-the-badge&logoColor=white)
+![Learning](https://img.shields.io/badge/Learning-JavaScript_&_Lua-8B0000?style=for-the-badge&logoColor=white)
+![Hobbies](https://img.shields.io/badge/Hobbies-Making_music_&_Play_some_asymmetrical_games-8B0000?style=for-the-badge&logoColor=white)
 
-<span style="color:#aaaaaa;">"</span>
-<span style="color:#ffffff;">Friday the 13th is interesting...</span>
-<span style="color:#aaaaaa;">"</span>
+---
 
+![footer](https://capsule-render.vercel.app/api?type=waving&color=550000&height=120&section=footer)
 <span style="color:#555555;">------------------------------------------</span>
 
 <span style="color:#ff0000;">User:</span> o14bis

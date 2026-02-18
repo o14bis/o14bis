@@ -8,11 +8,15 @@
 
 ---
 
-![User](https://img.shields.io/badge/User-o14bis-8B0000?style=for-the-badge&logoColor=white)
-![System](https://img.shields.io/badge/System-Windows_10_(GG_Os)-8B0000?style=for-the-badge&logoColor=white)
-![Languages](https://img.shields.io/badge/Languages-none_(Sorry_guys)-8B0000?style=for-the-badge&logoColor=white)
-![Learning](https://img.shields.io/badge/Learning-JavaScript_&_Lua-8B0000?style=for-the-badge&logoColor=white)
+|  |  |
+|:--|:--|
+| <img src="Jasao vermei.jpg" width="260"> | 
+![User](https://img.shields.io/badge/User-o14bis-8B0000?style=for-the-badge&logoColor=white) <br>
+![System](https://img.shields.io/badge/System-Windows_10_(GG_Os)-8B0000?style=for-the-badge&logoColor=white) <br>
+![Languages](https://img.shields.io/badge/Languages-none_(Sorry_guys)-8B0000?style=for-the-badge&logoColor=white) <br>
+![Learning](https://img.shields.io/badge/Learning-JavaScript_&_Lua-8B0000?style=for-the-badge&logoColor=white) <br>
 ![Hobbies](https://img.shields.io/badge/Hobbies-Making_music_&_Play_some_asymmetrical_games-8B0000?style=for-the-badge&logoColor=white)
+|
 
 ---
 

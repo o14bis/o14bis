@@ -1,19 +1,44 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=120&section=header)
+<p align="center"><sub><b>bio by: DarkModeBR</b></sub></p>
 
-<p align="center">
-  
-> *"Friday the 13th is interesting..."*
+<p align="center">‹ Este perfil funciona melhor no tema escuro do GitHub ›</p>
+<br>
 
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0f2027&section=header"/>
+
+<br><br>
+
+```zsh
+> neofetch
+```
+
+<div align="center">
+<table>
+<tr>
+<td align="left" valign="top">
+<img src="Vee Boonyasak.jpg" width="190"/>
+</td>
+
+<td align="left" valign="top">
+
+```lua
+o14bis
+▔▔▔▔▔▔▔▔▔▔
+OS: Windows 10 (GG Os)
+Shell: VSC
+Learning: JavaScript & Lua
+Languages: None (Sorry guys)
+Hobbies: Making music & Play DBD (or VD)
+```
+
+</td>
+</tr>
+</table>
+</div>
+
+<br>
 
 ---
 
-![User](https://img.shields.io/badge/User-o14bis-8B0000?style=for-the-badge&logoColor=white)
-![System](https://img.shields.io/badge/System-Windows_10_(GG_Os)-8B0000?style=for-the-badge&logoColor=white)
-![Languages](https://img.shields.io/badge/Languages-none_(Sorry_guys)-8B0000?style=for-the-badge&logoColor=white)
-![Learning](https://img.shields.io/badge/Learning-JavaScript_&_Lua-8B0000?style=for-the-badge&logoColor=white)
-![Hobbies](https://img.shields.io/badge/Hobbies-Making_music_&_Play_some_asymmetrical_games-8B0000?style=for-the-badge&logoColor=white)
+<br>
 
----
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=550000&height=120&section=footer)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0f2027&section=footer"/>

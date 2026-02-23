@@ -1,6 +1,6 @@
 <p align="center"><sub><b>bio by: DarkModeBR</b></sub></p>
 
-<p align="center">‹ Este perfil funciona melhor no tema escuro do GitHub ›</p>
+<p align="center">‹ Este perfil funciona melhor no tema escuro e no pc ›</p>
 <br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0f2027&section=header"/>

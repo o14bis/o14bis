@@ -16,8 +16,8 @@
 ```lua
 o14bis@14 bis
 ▔▔▔▔▔▔▔▔▔▔
-OS: Zorin OS
-Shell: VS Code
+OS: Lubunto LTS 24.04
+Shell: Kate
 Learning: HTML
 Languages: None (Sorry guys)
 Hobbies: Making music & Play DBD (or VD)

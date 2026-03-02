@@ -11,7 +11,7 @@
 > neofetch
 ```
 
-<img align="left" src="Vee Boonyasak.jpg" width="190"/>
+<img align="left" src="mourn-pixiv.jpeg" width="170"/>
 
 ```lua
 o14bis@14 bis

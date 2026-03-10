@@ -3,7 +3,7 @@
 <p align="center">‹ Este perfil funciona melhor no tema escuro ›</p>
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ff69b4&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=86D2C1&section=header"/>
 
 <br>
 
@@ -29,4 +29,4 @@ Hobbies: Making music & Play DBD (or VD)
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ff69b4&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=86D2C1&section=footer"/>

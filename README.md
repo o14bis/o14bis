@@ -16,7 +16,7 @@
 ```lua
 o14bis@14 bis
 ▔▔▔▔▔▔▔▔▔▔
-OS: Lubuntu LTS 24.04
+OS: Windows X-Lite Optimum 10 (22H2 • PRO V6)
 Shell: Kate
 Learning: HTML
 Languages: None (Sorry guys)

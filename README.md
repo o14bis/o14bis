@@ -11,7 +11,7 @@
 > neofetch
 ```
 
-<img align="left" src="1d6a8583bf7f34222d0bb74c1f7f3614.jpg" width="170"/>
+<img align="left" src="Anime girl pfp.jpg" width="170"/>
 
 ```lua
 o14bis@14 bis

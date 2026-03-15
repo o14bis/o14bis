@@ -17,7 +17,7 @@
 o14bis@14 bis
 ▔▔▔▔▔▔▔▔▔▔
 OS: Windows X-Lite Optimum 10 (22H2 • PRO V6)
-Shell: Kate
+Shell: VS Codium
 Learning: HTML
 Languages: None (Sorry guys)
 Hobbies: Making music & Play DBD (or VD)

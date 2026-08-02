@@ -11,7 +11,7 @@
 > neofetch
 ```
 
-<img align="left" src="Backup das imagens antigas/dd61da35ed03b47c411bfee575051be8.jpg" width="170"/>
+<img align="left" src="Backup das imagens antigas/dd61da35ed03b47c411bfee575051be8.jpg" width="200"/>
 
 ```lua
 o14bis@14 bis
